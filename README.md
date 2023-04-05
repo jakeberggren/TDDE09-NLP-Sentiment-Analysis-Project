@@ -76,12 +76,12 @@ Method 2 assigns weights to the individual results from the fine-tuned BERT and 
 
 <div align="center">
 <a href="https://github.com/jakeberggren"> 
-  <img src="https://avatars.githubusercontent.com/u/113470123?v=4" style="border-radius:50%;" style="" image width=130px> 
+  <img width=130px style='border-radius:50%;' src="https://avatars.githubusercontent.com/u/113470123?v=4">
 </a> 
 <a href="https://github.com/hugomartinbjork"> 
-  <img src="https://avatars.githubusercontent.com/u/108306405?v=4" style="border-radius:50%;" style="" image width=130px> 
+  <img width=130px style='border-radius:50%;' src="https://avatars.githubusercontent.com/u/108306405?v=4"> 
 </a> 
 <a href="https://github.com/marfo203"> 
-  <img src="https://avatars.githubusercontent.com/u/79992052?v=4" style="border-radius:50%;" style="" image width=130px> 
+  <img width=130px style='border-radius:50%;' src="https://avatars.githubusercontent.com/u/79992052?v=4"> 
 </a> 
 </div>
